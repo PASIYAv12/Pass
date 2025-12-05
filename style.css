@@ -21,3 +21,17 @@ body {
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 0 15px #00000088;
+  margin-bottom: 30px;
+}
+
+#botCount {
+  font-size: 48px;
+  color: #38bdf8;
+}
+
+.note {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #facc15;
+}
+`
